@@ -1,0 +1,4 @@
+*.txt*
+*.parsed
+*.png
+*.gv
